@@ -1,5 +1,11 @@
 % This script uses stringent segmentation to calculate the overlap between
-% two different chromosome territory signals 
+% two different chromosome territory signals using watershed segmentation of nuclei and strain probe signal
+% 
+% Input: multidimensional matrices (3D image stacks) of nuclear signal,
+% strain-specific territories, tform, tform2, DeltaZ560, DeltaZ647
+% 
+% create folders before running: overlap
+%
 % Version 1.0
 % 
 % Silvia Gutnik, V1, 05.07.2022
