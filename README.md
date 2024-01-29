@@ -1,3 +1,3 @@
 # maternal-vs.-paternal-MultiplexedFISH
 
-co-authored-by: hilshaw 
+co-authored-by: hilsawh 
